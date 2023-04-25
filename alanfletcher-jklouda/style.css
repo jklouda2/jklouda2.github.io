@@ -1,0 +1,87 @@
+.frank{
+    background-image:url(images/alan1.jpeg);
+background-size:cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    color: #293983;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+.txt{
+    color: #293983;
+}
+
+body{
+    background-color: #F1E9DF;
+    
+}
+
+head{
+    background-color: mintcream;
+}
+
+footer{
+    background-color: #F0533A;
+}
+
+.foot{
+    font-size: 25px;
+}
+
+
+.block1{
+    background-color: #CBD5EF;
+    
+}
+
+.block2{
+    background-color: #CBD5EF;
+}
+
+.navbar{
+    background-color: #F0533A;
+}
+
+.card-text{
+   color: #293983;
+    text-align: center;
+}
+
+
+img.fluid{
+    
+}
+
+h2{
+    color: #293983;
+}
+
+.tx{
+    color:#293983;
+}
+
+.btn{
+    
+}
+
+
+.dis{
+    font-size: 80pt;
+    text-align: left;
+    
+}
+
+.accordion-button{
+    color: #293983;
+    
+}
+
+.credit{
+    color:white;
+    text-align: center;
+    
+}
